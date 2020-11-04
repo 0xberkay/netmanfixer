@@ -7,4 +7,3 @@ git clone https://github.com/bksec/netmanfixer
 </br>
 bash netmanfixer.sh
 </br>
-https://berkaykucuk.com.tr
