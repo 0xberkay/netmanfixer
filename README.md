@@ -1,5 +1,5 @@
 # netmanfixer
-Fixing network maneger in linux
+Fixing network manager in linux
 </br>
 How to install 
 </br>
